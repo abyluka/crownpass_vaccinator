@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.crownpass.vaccinator.restful_webservice.RestfulWebserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.291 s - in com.crownpass.vaccinator.restful_webservice.RestfulWebserviceApplicationTests

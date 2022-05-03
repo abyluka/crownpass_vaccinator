@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vaccinator.staffManagement.vaccinator_staffCreation_restApi.VaccinatorStaffCreationRestApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.019 s - in com.vaccinator.staffManagement.vaccinator_staffCreation_restApi.VaccinatorStaffCreationRestApiApplicationTests

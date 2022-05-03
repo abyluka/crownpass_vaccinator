@@ -1,0 +1,10 @@
+com\crownpass\vaccinator\restful_webservice\staffReg\UserResource.class
+com\crownpass\vaccinator\restful_webservice\FileUtils\FileUploadUtil.class
+com\crownpass\vaccinator\restful_webservice\staffReg\Post.class
+com\crownpass\vaccinator\restful_webservice\staffReg\User.class
+com\crownpass\vaccinator\restful_webservice\staffReg\UserDaoService.class
+com\crownpass\vaccinator\restful_webservice\staffReg\UserJPAResource.class
+com\crownpass\vaccinator\restful_webservice\RestfulWebserviceApplication.class
+com\crownpass\vaccinator\restful_webservice\staffReg\PostRepository.class
+com\crownpass\vaccinator\restful_webservice\staffReg\UserNotFoundException.class
+com\crownpass\vaccinator\restful_webservice\staffReg\UserRepository.class
